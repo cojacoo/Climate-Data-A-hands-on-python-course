@@ -1,9 +1,13 @@
 jupyter
 matplotlib
-numpy
-pandas
+numpy==1.26.1
+pandas==2.2.3
 scipy
-xarray
+xarray==2024.10.0
+pydap
+esgf-pyclient
 cartopy
+rasterio
 netCDF4
 cdsapi
+dask
