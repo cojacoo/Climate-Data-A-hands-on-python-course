@@ -9,5 +9,13 @@ esgf-pyclient
 cartopy
 rasterio
 netCDF4
+# Legacy CDS API (kept for compatibility)
 cdsapi
+# New unified ECMWF datastores client
+ecmwf-datastores-client
 dask
+# Additional packages for climate attribution analysis
+scikit-learn
+statsmodels
+# For extreme value analysis
+scipy
